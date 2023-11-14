@@ -16,7 +16,6 @@ global.location = "India, Mizoram, Aizawl"
 global.botname = "HBWABot Mizo"
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
-global.wm = "HBWABot Inc."
 global.creator = "918416093656@s.whatsapp.net"
 global.ownerNumber = ["918416093656@s.whatsapp.net"]
 global.prefa = ['','!','.','#','&']
@@ -26,8 +25,6 @@ global.hituet = 0
 // Sticker Pack Name
 global.packname = "Sticker By"
 global.author = "HBWABot"
-
-//Hei hi i thlak chuan bot hian hna a thawk dawn lo
 global.hbmods = "https://herbert70.blogspot.com/"
 //_______________________________________________
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60' //default pp wa
