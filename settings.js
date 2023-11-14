@@ -15,7 +15,6 @@ global.socialm = "https://herbert70.blogspot.com"
 global.location = "India, Mizoram, Aizawl"
 global.botname = "HBWABot Mizo"
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
-global.wagc = "https://chat.whatsapp.com/IgV6un73n0J9TfzyVsaBRA"
 global.themeemoji = '🤖'
 global.wm = "HBWABot Inc."
 global.creator = "918416093656@s.whatsapp.net"
