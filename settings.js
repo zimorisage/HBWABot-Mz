@@ -10,17 +10,14 @@ global.autoread_status = false
 global.owner = ['918416093656']
 global.ownernumber = '918416093656'
 global.ownername = "꧁Herbert♕꧂"
-global.ytname = "HBMods OFC" 
-global.socialm = "https://herbert70.blogspot.com"
 global.location = "India, Mizoram, Aizawl"
 global.botname = "HBWABot Mizo"
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
 global.creator = "918416093656@s.whatsapp.net"
 global.ownerNumber = ["918416093656@s.whatsapp.net"]
-global.prefa = ['','!','.','#','&']
+global.prefa = ['','!','.','#','/']
 global.sessionName = 'session'
-global.hituet = 0
 
 // Sticker Pack Name
 global.packname = "Sticker By"
