@@ -1,7 +1,7 @@
 ## HBWABOT MIZO
 </details>
 <p align="center">
-<img src="https://telegra.ph/file/910eec69750ced676b2a1.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/15d8da8fe06675c0b4bdc.jpg" alt="nz" width="700"/>
 </p>
 <br>
 
