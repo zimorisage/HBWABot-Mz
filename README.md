@@ -6,25 +6,28 @@
 </details>
 
 <!-- Hriat tur -->
-<b><details><summary>Hriat tur</summary></b>
+<b><details><summary>Hriat tur leh tih ngei ngei ngai</summary></b>
 * Qr code leh Number hmangin login thei ve ve a ni tawh e
 
-<b><summary>Qr Code</summary></b>
+<b><details><summary>Qr Code</summary></b>
  
  * I WhatsApp link device a tangin scan tur [QR Code](https://replit.com/@Herbert70/HBWABot-Qr-Code-Generator?v=1)
+</details>
 
-<b><summary>Pairing Code</summary></b>
+<b><details><summary>Pairing Code</summary></b>
 
-* Number hmangin pair theih a ni bawk [Pair your number](https://replit.com/@Herbert70/HBWABot-Qr-Code-Generator?v=1)
+* Number hmangin pair theih a ni bawk [Pair your number](https://replit.com/@HBMods-OFC/HBWABot-PairCode?v=1)
+</details>
 
-<b><summary>Sign up Account</summary></b>
+<b><details><summary>Sign up Account</summary></b>
 
 * Heroku Account ila nei loh chuan [Create Heroku Account](https://heroku.com/)
+</details>
 
-<b><summary>Heroku Bin CC</summary></b>
+<b><details><summary>Heroku Bin CC</summary></b>
 
 * Cradit Card hi hman tur i nei loh chuan Herbert-a bulah hian dil tur a ni [⚙️Dilna⚙️](https://api.whatsapp.com/send?phone=918416093656&text=Hi+Herbert+Bin+cc+min+lo+pe+ve+teh..)
-
+</details>
 
 </details>
 
@@ -32,16 +35,22 @@
 
 <b><details><summary>Thlak tur </summary></b>
  
-<details><summary> Settings.js</summary>
-  
+<b><details><summary> Settings.js</summary></b>
+ 
 Settings.js ah khian i lut anga, heng a chhunga mi te hi i thlak dawn a nia
   
   ```
-jahhan
-nsjha
-jshhss
-shaha
-jajaj
+global.owner = ['918416093656'] //i number in thlak la
+global.ownernumber = '918416093656' //hei pawh hi thlak rawh
+global.ownername = "꧁Herbert♕꧂"// i hmingin thlak la
+global.location = "India, Mizoram, Aizawl" // i awmna hmun
+global.botname = "HBWABot Mizo" // I bot hming tur dah la
+global.ownerweb = "https://youtube.com/@HBMods_Channel" // hei hi youtube channel i neih chuan thlak rawh
+global.themeemoji = '🤖'
+global.creator = "918416093656@s.whatsapp.net" // i phone number 
+global.ownerNumber = ["918416093656@s.whatsapp.net"] // i phone number 
+global.prefa = ['','!','.','#','/']
+global.sessionName = 'session'
 ```
   
 </details>
