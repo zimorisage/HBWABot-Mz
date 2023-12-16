@@ -19,7 +19,7 @@
 * Number hmangin pair theih a ni bawk [Pair your number](https://replit.com/@HBMods-OFC/HBWABot-PairCode?v=1)
 </details>
 
-<b><details><summary>Sign up Account</summary></b>
+<b><details><summary>Sign up Heroku Account</summary></b>
 
 * Heroku Account ila nei loh chuan [Create Heroku Account](https://heroku.com/)
 </details>
@@ -32,12 +32,12 @@
 </details>
 
 
-
+##
 <b><details><summary>Thlak tur </summary></b>
  
 <b><details><summary> Settings.js</summary></b>
  
-Settings.js ah khian i lut anga, heng a chhunga mi te hi i thlak dawn a nia
+[Settings.js](https://github.com/HBMods-OFC/HBWABot-Mz/settings.js) ah khian i lut anga, heng a chhunga mi te hi i thlak dawn a nia
   
   ```
 global.owner = ['918416093656'] //i number in thlak la
@@ -52,9 +52,21 @@ global.ownerNumber = ["918416093656@s.whatsapp.net"] // i phone number
 global.prefa = ['','!','.','#','/']
 global.sessionName = 'session'
 ```
-  
+## Heng te hi true leh false a thlak tur a ni
+
+```
+global.autoTyping = false // typeing tih lan i duh chuan true tiin thlak rawh
+global.autoRecord = false // Audio recording tig lan i duh chuan true tih dah rawh
+global.available = true // Offline anga lan tir i duh chuan false dah la
+global.autoread = false // Message read tir i duh chuan true dah rawh
+global.autoread_status = false // Auto status view i duh chuan true tih in thlak rawh
+
+```
+##
+
 </details>
 
+##
 
 </details>
 
