@@ -31,15 +31,16 @@
 
 </details>
 
+#
 
-##
+
 <b><details><summary>Thlak tur </summary></b>
  
 <b><details><summary> Settings.js</summary></b>
  
 [Settings.js](https://github.com/HBMods-OFC/HBWABot-Mz/settings.js) ah khian i lut anga, heng a chhunga mi te hi i thlak dawn a nia
   
-  ```
+```
 global.owner = ['918416093656'] //i number in thlak la
 global.ownernumber = '918416093656' //hei pawh hi thlak rawh
 global.ownername = "꧁Herbert♕꧂"// i hmingin thlak la
@@ -52,7 +53,7 @@ global.ownerNumber = ["918416093656@s.whatsapp.net"] // i phone number
 global.prefa = ['','!','.','#','/']
 global.sessionName = 'session'
 ```
-## Heng te hi true leh false a thlak tur a ni
+# Heng te hi true leh false a thlak tur a ni
 
 ```
 global.autoTyping = false // typeing tih lan i duh chuan true tiin thlak rawh
@@ -62,11 +63,17 @@ global.autoread = false // Message read tir i duh chuan true dah rawh
 global.autoread_status = false // Auto status view i duh chuan true tih in thlak rawh
 
 ```
-##
 
 </details>
 
-##
+<b><details><summary>Create Heroku App</summary></b>
+
+<b> He link hi copy la, chuan i repo fork link kha copy leh la, chuan ```template=``` tih hmaah tak hian paste tur</b>
+```
+https://dashboard.heroku.com/new?template=
+```
+Entirnan : ```https://dashboard.heroku.com/new?template=https://github.com/HBMods-OFC/HBWABot-Mz```
+</details>
 
 </details>
 
