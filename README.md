@@ -38,7 +38,7 @@
  
 <b><details><summary> Settings.js</summary></b>
  
-[Settings.js](https://github.com/HBMods-OFC/HBWABot-Mz/settings.js) ah khian i lut anga, heng a chhunga mi te hi i thlak dawn a nia
+[Settings.js](https://github.com/HBMods-OFC/HBWABot-Mz/blob/02484e7d4a8e37710a2ce5a92544c8f60f13b406/settings.js#L10) ah khian i lut anga, heng a chhunga mi te hi i thlak dawn a nia
   
 ```
 global.owner = ['918416093656'] //i number in thlak la
