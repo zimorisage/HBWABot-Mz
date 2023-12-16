@@ -1,6 +1,6 @@
 {
   "name": "HBWABot Mizo",
-  "version": "3.0.0",
+  "version": "5.0.0",
   "description": "Automated whatsapp bot hi nodejs and baileys lib hmanga siam a ni",
   "main": "index.js",
   "type": "commonjs",

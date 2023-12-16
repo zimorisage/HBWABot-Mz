@@ -1,9 +1,9 @@
 {
   "name": "HBWABot Mizo",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/HBMods-OFC/HBWABot-v3",
+  "repository": "https://github.com/HBMods-OFC/HBWABot-Mz",
   "logo": "https://i.imgur.com/Csx7R8J.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "keywords": ["nodejs", "bot", "gpt", "hbwabot", "multi device"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
