@@ -1,4 +1,4 @@
-## HBWABot Mizo
+# HBWABot Mizo
 <p align="center">
 <img src="https://telegra.ph/file/15d8da8fe06675c0b4bdc.jpg" alt="nz" width="700"/>
 </p>
